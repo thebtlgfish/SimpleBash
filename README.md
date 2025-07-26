@@ -1,2 +1,2 @@
-**More Information About This Repo**
-Welcome to SimpleBash! A Repo designed for begginers learning bash for the first time. by searching through these files, you will find some really simple bash scripts that you can learn from and modify. Over time more and more bash scripts will be added here. This Repo was created by Bootleg Fish
+Hello and welcome to simple bash. Simple Bash is a repository of simple bash scripts, so that begginers learning bash can use these scripts to learn upon and expand upon them. Feel free to download and do whatever you want with these scripts.
+

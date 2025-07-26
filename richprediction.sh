@@ -23,6 +23,6 @@ echo "Calculating..."
 
 sleep 1
 
-rich=$((($RANDOM % 15)+ $age))
+rich=$((($RANDOM % 15)+ $age)) # Change the paramaters of the random number by increasing the number next to the Random variable
 
 echo "you wil be rich when you are $rich years old."
